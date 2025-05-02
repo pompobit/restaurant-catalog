@@ -1,4 +1,4 @@
-retailer_id;name;description;image_link;availability;condition;price;link
+id;name;description;image_link;availability;condition;price;link
 1;Margherita;Pomodoro, mozzarella, basilico;https://pompobit.github.io/restaurant-catalog/images/margherita.jpg;in stock;new;8.00 EUR;https://pompobit.github.io/restaurant-catalog/margherita.html
 2;Diavola;Pomodoro, mozzarella, salame piccante;https://pompobit.github.io/restaurant-catalog/images/diavola.jpg;in stock;new;9.50 EUR;https://pompobit.github.io/restaurant-catalog/diavola.html
 3;Quattro Formaggi;Mozzarella, gorgonzola, parmigiano, fontina;https://pompobit.github.io/restaurant-catalog/images/4formaggi.jpg;in stock;new;10.00 EUR;https://pompobit.github.io/restaurant-catalog/4formaggi.html
